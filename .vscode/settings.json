@@ -1,5 +1,6 @@
 {
     "files.watcherExclude": {
         "**/target": true
-    }
+    },
+    "python.pythonPath": "C:\\Users\\jvishwanath2\\AppData\\Local\\Microsoft\\WindowsApps\\python3.7.exe"
 }
